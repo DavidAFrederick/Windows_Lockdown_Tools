@@ -1,0 +1,1 @@
+powershell -command "Disable-WindowsOptionalFeature -Online -FeatureName "SimpleTCP" "

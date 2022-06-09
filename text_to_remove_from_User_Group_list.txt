@@ -1,0 +1,6 @@
+Alias name
+Comment
+Members
+NT AUTHORITY
+The command
+-----
