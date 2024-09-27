@@ -1,0 +1,19 @@
+Echo "Rename text files to batch files"
+Pause
+Pause
+rename 01_Identify_Invalid_Admins_v02.bat__.txt 01_Identify_Invalid_Admins_v02.bat
+rename 02_Remove_invalid_Admins_From_Group_v01.bat__.txt  02_Remove_invalid_Admins_From_Group_v01.bat
+rename 03_Identify_UnAuthorized_users_v02.bat__.txt 03_Identify_UnAuthorized_users_v02.bat
+rename 04_Create_list_of_users_v01.bat__.txt 04_Create_list_of_users_v01.bat
+rename 05_change_users_passwords_v02.bat__.txt 05_change_users_passwords_v02.bat
+rename 10_secedit__WIN10.bat__.txt 10_secedit__WIN10.bat
+rename 20_Enable_WIndows_Firewalls_v01.bat__.txt  20_Enable_WIndows_Firewalls_v01.bat
+rename 30_Configure_Advanced_Auditing_v01.bat__.txt  30_Configure_Advanced_Auditing_v01.bat
+rename 40_List_network_Shares_v01.bat__.txt 40_List_network_Shares_v01.bat
+rename 50_Disable_Simple_TCP_Services_v01.bat__.txt 50_Disable_Simple_TCP_Services_v01.bat
+rename 60_Disable_Remote_Registry_v02.bat__.txt 60_Disable_Remote_Registry_v02.bat
+rename 70_Disable_FTP_Service_v02.bat__.txt 70_Disable_FTP_Service_v02.bat
+rename 80_stop_and_Disable_Services_CIS_CAT.bat.txt 80_stop_and_Disable_Services_CIS_CAT.bat
+rename 90_start_Services_CIS_CAT.bat__.txt 90_start_Services_CIS_CAT.bat
+
+pause

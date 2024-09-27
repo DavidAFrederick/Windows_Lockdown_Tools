@@ -1,0 +1,9 @@
+echo "50_Disable_Simple_TCP_Services_v02.bat"
+Pause
+
+
+cd c:\temp
+
+powershell -command "Get-Service -Name RemoteRegistry | Set-Service -StartupType Disabled -PassThru| Stop-Service"
+
+pause

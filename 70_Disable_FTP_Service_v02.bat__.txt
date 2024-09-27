@@ -1,0 +1,9 @@
+echo "70_Disable_FTP_Servicey_v02.bat"
+Pause
+
+
+cd c:\temp
+
+powershell -command "Get-Service -Name ftpsvc | Set-Service -StartupType Disabled -PassThru| Stop-Service"
+
+pause

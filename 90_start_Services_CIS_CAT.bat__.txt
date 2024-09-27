@@ -1,0 +1,6 @@
+Echo "Start Services"
+Pause
+
+sc config EventLog start=auto
+sc start EventLog
+Pause

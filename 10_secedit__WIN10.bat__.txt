@@ -1,0 +1,3 @@
+Secedit /configure /db WWin10_Security_Template_CIS_CAT_Sept_24_2024.sdb /cfg Win10_Security_Template_CIS_CAT_Sept_24_2024.inf /overwrite /log Win10_Security_Template_CIS_CAT_Sept_24_2024.log
+
+pause
